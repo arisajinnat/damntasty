@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-color{
+    background-color: rgba(162, 227, 255, 0.986);
+}
+.nav-text{
+    color: rgba(64, 64, 249, 0.954);
+    
+
+}
+.nav-texts{
+    margin-left: 800px;
+}
+.nav-logo{
+    margin-left: 40px;
+}
+.banner-color{
+    background-color: rgba(162, 227, 255, 0.986);
+}
+.text-primary-damn{
+    color: gray;
+}
+.damn-btn{
+    background-color: rgb(249, 255, 164);
+    color: black;
+    border: 0;
+    
+}
+.damn-card-footer{
+    background-color: white;
+    border: 0ch;
+}
+.damn-card{
+    border-radius: 20px;
+    box-shadow: 5px 10px;
+    border: none;
+}
